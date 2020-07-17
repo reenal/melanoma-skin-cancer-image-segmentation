@@ -14,6 +14,7 @@ dwonlaod database and run dataset.py  which will creat folder dataset contains(t
 
 step3)
 download pkl file form below link , and create models folder in root dir,  put pkl file in this models(I have alreday trained)
+https://drive.google.com/drive/folders/1_MZjk5l2JVmNuOAfCGRZqBtaHml6uX44?usp=sharing
 
 
 step3) default mode is train  for taining run following command will tain model and creat pkl file 
