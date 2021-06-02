@@ -52,7 +52,7 @@ termcolor==1.1.0
 threadpoolctl==2.1.0
 tifffile==2020.8.13
 tqdm==4.48.2
-urllib3==1.25.8
+urllib3==1.26.5
 Werkzeug==1.0.0
 wincertstore==0.2
 wrapt==1.12.1
